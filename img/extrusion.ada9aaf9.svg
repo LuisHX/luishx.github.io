@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="40" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer" display="inline">
+  <title>extrusion</title>
+  <g id="svg_35">
+   <path d="m19.70714,2.69446l-2.3323,2.91344l5.08705,-0.02806l-2.75474,-2.88538l-0.00001,0z" fill="#0080fe" id="svg_28" stroke="#0080fe" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3"/>
+   <line fill="none" id="svg_34" stroke="#0080fe" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" x1="19.70448" x2="19.70448" y1="4.19941" y2="10.48331"/>
+  </g>
+ </g>
+</svg>

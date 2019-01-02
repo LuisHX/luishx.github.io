@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="40" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer" display="inline">
+  <title>cariesbottom</title>
+  <path d="m16.29475,23.69005l-3.1579,3.94737l1.89474,0.8421l1.78948,0.63158l1.78948,0.31579l2.21052,0.10526c0,0 2.42106,-0.15789 4.10527,-0.57894c1.68421,-0.42106 3.78947,-1.47369 3.68421,-1.52632c-0.10527,-0.05263 -0.52632,-0.68421 -0.63158,-0.73684c-0.10527,-0.05263 -3.05263,-3.63158 -3.1579,-3.68421c-0.10527,-0.05263 -0.42106,0.89473 -0.52631,0.89473c-0.10527,0 -1.89474,0.42106 -2,0.36843c-0.10527,-0.05264 -1.57895,0.57894 -1.68421,0.52631c-0.10527,-0.05263 -2.31579,-0.26316 -2.42106,-0.31579c-0.10527,-0.05263 -1.15789,-0.47368 -1.26316,-0.52631" fill="#ff0000" id="svg_67" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+ </g>
+ <g class="layer" display="inline">
+  <title>diente</title>
+  <ellipse cx="19.86014" cy="20.174825" fill="none" id="svg_27" rx="5.230769" ry="4.153846" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+  <line fill="none" id="svg_29" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="11.090909" x2="16.321678" y1="13.097902" y2="17.251749"/>
+  <line fill="none" id="svg_30" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="23.706294" x2="28.167832" y1="17.251749" y2="12.174826"/>
+  <line fill="none" id="svg_31" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="24.167832" x2="28.783217" y1="22.328672" y2="27.405595"/>
+  <line fill="none" id="svg_32" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="16.013986" x2="11.86014" y1="22.944056" y2="27.713287"/>
+  <ellipse cx="20.244757" cy="20.097905" fill="none" id="svg_54" rx="12.692308" ry="10.076923" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+ </g>
+</svg>

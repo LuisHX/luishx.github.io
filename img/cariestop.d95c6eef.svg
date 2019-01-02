@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="40" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer" display="inline">
+  <title>cariestop</title>
+  <path d="m11.61723,13.55502l4.31579,3.21053l0.8421,-0.21053l0.73684,-0.42105c0,0 1.26316,-0.47369 2.63158,-0.1579c1.36842,0.31579 3.05263,0.73685 2.94737,0.68421c-0.10526,-0.05263 0.8421,0.47369 0.73684,0.42106c-0.10526,-0.05263 3.68421,-4.68421 3.57895,-4.73684c-0.10527,-0.05264 -2.21053,-1.21053 -2.31579,-1.26316c-0.10526,-0.05263 -1.68421,-0.36842 -1.78947,-0.42106c-0.10527,-0.05263 -2.73685,-0.05263 -2.84211,-0.10526c-0.10526,-0.05263 -2.21053,-0.05263 -2.31579,-0.10526c-0.10526,-0.05263 -2.73684,0.68421 -2.8421,0.63158c-0.10527,-0.05263 -1.57895,0.89473 -1.68421,0.8421c-0.10527,-0.05263 -2,1.63158 -2,1.63158z" fill="#ff0000" id="svg_63" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+ </g>
+ <g class="layer" display="inline">
+  <title>diente</title>
+  <ellipse cx="19.86014" cy="20.174825" fill="none" id="svg_27" rx="5.230769" ry="4.153846" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+  <line fill="none" id="svg_29" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="11.090909" x2="16.321678" y1="13.097902" y2="17.251749"/>
+  <line fill="none" id="svg_30" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="23.706294" x2="28.167832" y1="17.251749" y2="12.174826"/>
+  <line fill="none" id="svg_31" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="24.167832" x2="28.783217" y1="22.328672" y2="27.405595"/>
+  <line fill="none" id="svg_32" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" x1="16.013986" x2="11.86014" y1="22.944056" y2="27.713287"/>
+  <ellipse cx="20.244757" cy="20.097905" fill="none" id="svg_54" rx="12.692308" ry="10.076923" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+ </g>
+</svg>
